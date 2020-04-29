@@ -1,6 +1,6 @@
 ---
 title: "Wow!"
-date: 2017-10-20 08:26:28 -0400
+date: 2020-04-30
 categories: update
 ---
 ハロー
